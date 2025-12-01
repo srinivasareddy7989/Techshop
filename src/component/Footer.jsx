@@ -12,7 +12,7 @@ const Footer = () => {
             <h1 className="mb-4 footer_first_align">Tech-Shop</h1>
             <ul className="list-unstyled">
               <li>
-                <p>Subscribe to our Email alerts to receive early discount offers, and new Products info</p>
+                <p>Subscribe to our Email alerts to receive early discount offers, and New Products info</p>
               </li>
               <li>
                 <input
