@@ -22,7 +22,7 @@ const Advantages = () => {
           <i className="fa-solid fa-shield-halved icon-box"></i>
           <div className="text-box">
             <p className="feature-title">Brand Warranty</p>
-            <p className="feature-text">100% Original products</p>
+            <p className="feature-text">100% Original Products</p>
           </div>
         </div>
 

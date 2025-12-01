@@ -163,7 +163,7 @@ const Header = () => {
 
           {/* No results */}
           {searchText && filteredProducts.length === 0 && (
-            <p className="text-muted mt-2">No Products found</p>
+            <p className="text-muted mt-2">No Products Found</p>
           )}
         </div>
       )}
