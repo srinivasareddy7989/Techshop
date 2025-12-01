@@ -190,7 +190,7 @@ const Header = () => {
                   style={{ background: "white", color: "black" }}
                   onClick={toggleToLogin}
                 >
-                  Already have an account?{" "}
+                  Already have an Account?{" "}
                   <span className="text-info fw-bolder">Login</span>
                 </Button>
 
