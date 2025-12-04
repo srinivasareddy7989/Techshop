@@ -30,7 +30,7 @@ const Advantages = () => {
           <i className="fa-solid fa-tags icon-box"></i>
           <div className="text-box">
             <p className="feature-title">Exciting Deals</p>
-            <p className="feature-text">On All prepaid orders</p>
+            <p className="feature-text">On All prepaid Orders</p>
           </div>
         </div>
 
