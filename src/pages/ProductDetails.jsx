@@ -156,7 +156,7 @@ const ProductDetails = () => {
                             )}
 
                             <p style={{ color: "rgb(0, 255, 0)" }}>
-                                You save: ₹5,34 (33%)
+                                You Save: ₹5,34 (33%)
                             </p>
 
                             <p className="text-white">(Inclusive of all taxes)</p>
